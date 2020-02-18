@@ -1,0 +1,4 @@
+E:\ETEC 2016\POO\PrjAula01\PrjAula01\PrjAula01\bin\Debug\PrjAula01.exe
+E:\ETEC 2016\POO\PrjAula01\PrjAula01\PrjAula01\bin\Debug\PrjAula01.pdb
+E:\ETEC 2016\POO\PrjAula01\PrjAula01\PrjAula01\obj\x86\Debug\PrjAula01.exe
+E:\ETEC 2016\POO\PrjAula01\PrjAula01\PrjAula01\obj\x86\Debug\PrjAula01.pdb

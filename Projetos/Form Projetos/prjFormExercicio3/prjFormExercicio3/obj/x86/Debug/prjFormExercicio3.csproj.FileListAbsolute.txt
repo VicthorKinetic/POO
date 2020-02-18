@@ -1,0 +1,7 @@
+C:\Users\Victhor\Desktop\prjFormExercicio3\prjFormExercicio3\bin\Debug\prjFormExercicio3.exe
+C:\Users\Victhor\Desktop\prjFormExercicio3\prjFormExercicio3\bin\Debug\prjFormExercicio3.pdb
+C:\Users\Victhor\Desktop\prjFormExercicio3\prjFormExercicio3\obj\x86\Debug\prjFormExercicio3.Diagonal.resources
+C:\Users\Victhor\Desktop\prjFormExercicio3\prjFormExercicio3\obj\x86\Debug\prjFormExercicio3.Properties.Resources.resources
+C:\Users\Victhor\Desktop\prjFormExercicio3\prjFormExercicio3\obj\x86\Debug\prjFormExercicio3.csproj.GenerateResource.Cache
+C:\Users\Victhor\Desktop\prjFormExercicio3\prjFormExercicio3\obj\x86\Debug\prjFormExercicio3.exe
+C:\Users\Victhor\Desktop\prjFormExercicio3\prjFormExercicio3\obj\x86\Debug\prjFormExercicio3.pdb

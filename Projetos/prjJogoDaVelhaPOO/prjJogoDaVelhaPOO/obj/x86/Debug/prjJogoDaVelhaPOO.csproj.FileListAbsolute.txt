@@ -1,0 +1,15 @@
+C:\Users\29622\Desktop\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\bin\Debug\prjJogoDaVelhaPOO.exe
+C:\Users\29622\Desktop\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\bin\Debug\prjJogoDaVelhaPOO.pdb
+C:\Users\29622\Desktop\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\obj\x86\Debug\prjJogoDaVelhaPOO.JogoDaVelha.resources
+C:\Users\29622\Desktop\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\obj\x86\Debug\prjJogoDaVelhaPOO.Properties.Resources.resources
+C:\Users\29622\Desktop\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\obj\x86\Debug\prjJogoDaVelhaPOO.csproj.GenerateResource.Cache
+C:\Users\29622\Desktop\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\obj\x86\Debug\prjJogoDaVelhaPOO.exe
+C:\Users\29622\Desktop\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\obj\x86\Debug\prjJogoDaVelhaPOO.pdb
+K:\ETEC\P.O.O\Projetos\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\obj\x86\Debug\prjJogoDaVelhaPOO.exe
+K:\ETEC\P.O.O\Projetos\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\obj\x86\Debug\prjJogoDaVelhaPOO.pdb
+K:\ETEC\P.O.O\Projetos\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\bin\Debug\prjJogoDaVelhaPOO.exe
+K:\ETEC\P.O.O\Projetos\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\bin\Debug\prjJogoDaVelhaPOO.pdb
+K:\ETEC\P.O.O\Projetos\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\obj\x86\Debug\prjJogoDaVelhaPOO.JogoDaVelha.resources
+K:\ETEC\P.O.O\Projetos\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\obj\x86\Debug\prjJogoDaVelhaPOO.Properties.Resources.resources
+K:\ETEC\P.O.O\Projetos\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\obj\x86\Debug\prjJogoDaVelhaPOO.csproj.GenerateResource.Cache
+K:\ETEC\P.O.O\Projetos\prjJogoDaVelhaPOO\prjJogoDaVelhaPOO\obj\x86\Debug\prjJogoDaVelhaPOO.csprojResolveAssemblyReference.cache

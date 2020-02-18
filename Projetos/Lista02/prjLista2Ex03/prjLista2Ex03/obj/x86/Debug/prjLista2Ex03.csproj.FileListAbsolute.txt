@@ -1,0 +1,5 @@
+C:\Users\Victhor\Desktop\prjLista2Ex03\prjLista2Ex03\bin\Debug\prjLista2Ex03.exe
+C:\Users\Victhor\Desktop\prjLista2Ex03\prjLista2Ex03\bin\Debug\prjLista2Ex03.pdb
+C:\Users\Victhor\Desktop\prjLista2Ex03\prjLista2Ex03\obj\x86\Debug\prjLista2Ex03.exe
+C:\Users\Victhor\Desktop\prjLista2Ex03\prjLista2Ex03\obj\x86\Debug\prjLista2Ex03.pdb
+C:\Users\Victhor\Desktop\prjLista2Ex03\prjLista2Ex03\obj\x86\Debug\prjLista2Ex03.csprojResolveAssemblyReference.cache

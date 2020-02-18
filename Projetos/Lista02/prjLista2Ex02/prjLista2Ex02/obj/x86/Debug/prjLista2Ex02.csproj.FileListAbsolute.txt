@@ -1,0 +1,6 @@
+C:\Users\29841\Desktop\prjLista2Ex02\prjLista2Ex02\bin\Debug\prjLista2Ex02.exe
+C:\Users\29841\Desktop\prjLista2Ex02\prjLista2Ex02\bin\Debug\prjLista2Ex02.pdb
+C:\Users\29841\Desktop\prjLista2Ex02\prjLista2Ex02\obj\x86\Debug\prjLista2Ex02.exe
+C:\Users\29841\Desktop\prjLista2Ex02\prjLista2Ex02\obj\x86\Debug\prjLista2Ex02.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Projetos\Lista02\prjLista2Ex02\prjLista2Ex02\obj\x86\Debug\prjLista2Ex02.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Projetos\Lista02\prjLista2Ex02\prjLista2Ex02\obj\x86\Debug\prjLista2Ex02.pdb

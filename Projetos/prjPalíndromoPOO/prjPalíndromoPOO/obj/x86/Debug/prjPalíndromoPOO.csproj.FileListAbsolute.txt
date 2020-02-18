@@ -1,0 +1,15 @@
+C:\Users\29841\Desktop\prjPalíndromoPOO\prjPalíndromoPOO\bin\Debug\prjPalíndromoPOO.exe
+C:\Users\29841\Desktop\prjPalíndromoPOO\prjPalíndromoPOO\bin\Debug\prjPalíndromoPOO.pdb
+C:\Users\29841\Desktop\prjPalíndromoPOO\prjPalíndromoPOO\obj\x86\Debug\prjPalíndromoPOO.Form1.resources
+C:\Users\29841\Desktop\prjPalíndromoPOO\prjPalíndromoPOO\obj\x86\Debug\prjPalíndromoPOO.Properties.Resources.resources
+C:\Users\29841\Desktop\prjPalíndromoPOO\prjPalíndromoPOO\obj\x86\Debug\prjPalíndromoPOO.csproj.GenerateResource.Cache
+C:\Users\29841\Desktop\prjPalíndromoPOO\prjPalíndromoPOO\obj\x86\Debug\prjPalíndromoPOO.exe
+C:\Users\29841\Desktop\prjPalíndromoPOO\prjPalíndromoPOO\obj\x86\Debug\prjPalíndromoPOO.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Projetos\prjPalíndromoPOO\prjPalíndromoPOO\obj\x86\Debug\prjPalíndromoPOO.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Projetos\prjPalíndromoPOO\prjPalíndromoPOO\obj\x86\Debug\prjPalíndromoPOO.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Projetos\prjPalíndromoPOO\prjPalíndromoPOO\bin\Debug\prjPalíndromoPOO.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Projetos\prjPalíndromoPOO\prjPalíndromoPOO\bin\Debug\prjPalíndromoPOO.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Projetos\prjPalíndromoPOO\prjPalíndromoPOO\obj\x86\Debug\prjPalíndromoPOO.Form1.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Projetos\prjPalíndromoPOO\prjPalíndromoPOO\obj\x86\Debug\prjPalíndromoPOO.Properties.Resources.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Projetos\prjPalíndromoPOO\prjPalíndromoPOO\obj\x86\Debug\prjPalíndromoPOO.csproj.GenerateResource.Cache
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Projetos\prjPalíndromoPOO\prjPalíndromoPOO\obj\x86\Debug\prjPalíndromoPOO.csprojResolveAssemblyReference.cache

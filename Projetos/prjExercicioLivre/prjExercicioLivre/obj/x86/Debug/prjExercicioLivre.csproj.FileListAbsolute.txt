@@ -1,0 +1,7 @@
+C:\Users\29622\Desktop\prjExercicioLivre\prjExercicioLivre\obj\x86\Debug\prjExercicioLivre.BlazBlue.resources
+C:\Users\29622\Desktop\prjExercicioLivre\prjExercicioLivre\obj\x86\Debug\prjExercicioLivre.Properties.Resources.resources
+C:\Users\29622\Desktop\prjExercicioLivre\prjExercicioLivre\obj\x86\Debug\prjExercicioLivre.csproj.GenerateResource.Cache
+I:\ETEC\P.O.O\Projetos\prjExercicioLivre\prjExercicioLivre\obj\x86\Debug\prjExercicioLivre.BlazBlue.resources
+I:\ETEC\P.O.O\Projetos\prjExercicioLivre\prjExercicioLivre\obj\x86\Debug\prjExercicioLivre.Properties.Resources.resources
+I:\ETEC\P.O.O\Projetos\prjExercicioLivre\prjExercicioLivre\obj\x86\Debug\prjExercicioLivre.csproj.GenerateResource.Cache
+I:\ETEC\P.O.O\Projetos\prjExercicioLivre\prjExercicioLivre\obj\x86\Debug\prjExercicioLivre.Form.resources

@@ -1,0 +1,4 @@
+C:\Users\29841\Desktop\prjExercicio04\prjExercicio04\bin\Debug\prjExercicio04.exe
+C:\Users\29841\Desktop\prjExercicio04\prjExercicio04\bin\Debug\prjExercicio04.pdb
+C:\Users\29841\Desktop\prjExercicio04\prjExercicio04\obj\x86\Debug\prjExercicio04.exe
+C:\Users\29841\Desktop\prjExercicio04\prjExercicio04\obj\x86\Debug\prjExercicio04.pdb

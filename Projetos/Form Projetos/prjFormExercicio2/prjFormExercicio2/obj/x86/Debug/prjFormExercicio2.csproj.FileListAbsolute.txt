@@ -1,0 +1,14 @@
+C:\Users\29622\Desktop\prjFormExercicio2\prjFormExercicio2\bin\Debug\prjFormExercicio2.exe
+C:\Users\29622\Desktop\prjFormExercicio2\prjFormExercicio2\bin\Debug\prjFormExercicio2.pdb
+C:\Users\29622\Desktop\prjFormExercicio2\prjFormExercicio2\obj\x86\Debug\prjFormExercicio2.Aresta.resources
+C:\Users\29622\Desktop\prjFormExercicio2\prjFormExercicio2\obj\x86\Debug\prjFormExercicio2.Properties.Resources.resources
+C:\Users\29622\Desktop\prjFormExercicio2\prjFormExercicio2\obj\x86\Debug\prjFormExercicio2.csproj.GenerateResource.Cache
+C:\Users\29622\Desktop\prjFormExercicio2\prjFormExercicio2\obj\x86\Debug\prjFormExercicio2.exe
+C:\Users\29622\Desktop\prjFormExercicio2\prjFormExercicio2\obj\x86\Debug\prjFormExercicio2.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Form Projetos\prjFormExercicio2\prjFormExercicio2\obj\x86\Debug\prjFormExercicio2.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Form Projetos\prjFormExercicio2\prjFormExercicio2\obj\x86\Debug\prjFormExercicio2.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Form Projetos\prjFormExercicio2\prjFormExercicio2\bin\Debug\prjFormExercicio2.exe
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Form Projetos\prjFormExercicio2\prjFormExercicio2\bin\Debug\prjFormExercicio2.pdb
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Form Projetos\prjFormExercicio2\prjFormExercicio2\obj\x86\Debug\prjFormExercicio2.Aresta.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Form Projetos\prjFormExercicio2\prjFormExercicio2\obj\x86\Debug\prjFormExercicio2.Properties.Resources.resources
+C:\Users\Victhor\Desktop\Trabalhos\ETEC\P.O.O\Form Projetos\prjFormExercicio2\prjFormExercicio2\obj\x86\Debug\prjFormExercicio2.csproj.GenerateResource.Cache

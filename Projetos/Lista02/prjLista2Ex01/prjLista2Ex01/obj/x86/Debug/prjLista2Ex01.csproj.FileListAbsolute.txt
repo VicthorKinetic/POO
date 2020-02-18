@@ -1,0 +1,4 @@
+C:\Users\29841\Desktop\prjLista2Ex01\prjLista2Ex01\bin\Debug\prjLista2Ex01.exe
+C:\Users\29841\Desktop\prjLista2Ex01\prjLista2Ex01\bin\Debug\prjLista2Ex01.pdb
+C:\Users\29841\Desktop\prjLista2Ex01\prjLista2Ex01\obj\x86\Debug\prjLista2Ex01.exe
+C:\Users\29841\Desktop\prjLista2Ex01\prjLista2Ex01\obj\x86\Debug\prjLista2Ex01.pdb
